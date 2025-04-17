@@ -6,8 +6,6 @@ import java.io.LineNumberReader;
 import java.util.Random;
 import java.util.Scanner;
 /**
- * Assignment 1 for CISC 124
- * @author Moheng Wang
  * This program allows 2 users to play the word game Word Mayhem. Or 1 possibly lonely user to play said game by themselves.
  */
 
